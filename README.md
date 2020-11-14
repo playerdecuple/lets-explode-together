@@ -1,7 +1,7 @@
 # LET'S EXPLODE TOGETHER!
 
 ## ??? : 함께 폭★4하자
-![Image](https://ww.namu.la/s/452fbf4b39119f5c1520f79c8d90c0bee19b2cab7b8f7cc3f32540c48fbb53b6c3c4ce0e8f6afdc8af9b1ecbb7fb0e768ddfdcc121f114ca4dd85f2b63259d22bfe5ef3614574e4f7b74a364288ba7a4945d5c64d82e948b77c81e752a62b49d)  
+![Image](https://cdn.ppomppu.co.kr/zboard/data3/2017/1002/m_20171002101930_razznrus.gif)  
 친구에게 트롤링하려고 만들어본 프로그램입니다.
 
 ## 소개
