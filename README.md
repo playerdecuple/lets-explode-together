@@ -33,3 +33,7 @@ class ExplodeCore extends TimerTask {
 
 
 ### 하꼬 프로그래머라서 설명이 틀렸을 수 있어요..
+
+# D-E-M-O
+![image](https://user-images.githubusercontent.com/64447484/99151965-3941a580-26e2-11eb-9725-9113ede8bfad.png)  
+천천히 올라가긴 합니다만 어쨋든 이렇게 됩니다. 16GB 기준으로는 1분정도 걸렸읍니다..
