@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="lets-explode-together:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lets_explode_together_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lets-explode-together.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="lets-explode-together" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
