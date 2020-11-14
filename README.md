@@ -1,7 +1,7 @@
 # LET'S EXPLODE TOGETHER!
 
 ## ??? : 함께 폭★4하자
-![Image](https://cdn.ppomppu.co.kr/zboard/data3/2017/1002/m_20171002101930_razznrus.gif)  
+![image](https://user-images.githubusercontent.com/64447484/99152066-e5838c00-26e2-11eb-8eb9-9f44ff5f0cc6.png)  
 친구에게 트롤링하려고 만들어본 프로그램입니다.
 
 ## 소개
