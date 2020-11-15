@@ -2,7 +2,7 @@
 
 ## ??? : 함께 폭★4하자
 ![image](https://user-images.githubusercontent.com/64447484/99152066-e5838c00-26e2-11eb-8eb9-9f44ff5f0cc6.png)  
-친구에게 트롤링하려고 만들어본 프로그램입니다.
+친구에게 트롤링하려고 만들어본 입니다.
 
 ### 설치
 **GIT을 활용한 설치**
